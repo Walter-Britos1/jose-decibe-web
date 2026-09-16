@@ -1,12 +1,57 @@
-# React + Vite
+# José Decibe Agro — Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Descripción
 
-Currently, two official plugins are available:
+José Decibe Agro es una landing page desarrollada para una empresa dedicada al sector agropecuario, orientada a la presentación de productos, servicios y soluciones para maquinaria agrícola.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+El objetivo principal del proyecto fue crear una presencia digital moderna y profesional que permitiera mostrar de forma clara la oferta de la empresa y facilitar el contacto con potenciales clientes.
 
-## Expanding the ESLint configuration
+La página fue diseñada priorizando una navegación sencilla, una presentación visual de los productos y una experiencia adaptada tanto a dispositivos de escritorio como móviles.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Características principales
+
+* 🚜 Presentación de productos y soluciones para maquinaria agrícola.
+* 📋 Información sobre los servicios ofrecidos.
+* 🖼️ Presentación visual de productos y equipamiento.
+* 📱 Diseño responsive para diferentes tamaños de pantalla.
+* 📞 Secciones orientadas al contacto con la empresa.
+* 🧭 Navegación sencilla e intuitiva.
+* ⚡ Interfaz moderna y enfocada en la presentación comercial.
+* 🌐 Deploy realizado mediante **Vercel**.
+
+## 🛠️ Tecnologías utilizadas
+
+* **React** — Desarrollo de la interfaz y estructura de componentes.
+* **Tailwind CSS** — Diseño, estilos y adaptación responsive.
+* **Vercel** — Deployment y publicación del proyecto.
+
+## 🎯 Objetivo del proyecto
+
+El objetivo fue desarrollar una landing page que funcionara como punto de presentación digital para José Decibe Agro.
+
+La web busca facilitar que potenciales clientes puedan conocer los productos y servicios disponibles, obtener información relevante y encontrar rápidamente los medios para comunicarse con la empresa.
+
+## 🧩 Desarrollo
+
+El proyecto fue desarrollado utilizando una arquitectura basada en componentes, buscando mantener una estructura organizada y reutilizable.
+
+Durante el desarrollo se tuvo en cuenta especialmente:
+
+* La organización de la información comercial.
+* La presentación visual de productos y servicios.
+* La adaptación del diseño a dispositivos móviles.
+* La navegación entre las diferentes secciones.
+* La claridad de la información presentada.
+* La optimización de la experiencia de usuario.
+
+## 📱 Diseño Responsive
+
+La interfaz fue desarrollada teniendo en cuenta diferentes resoluciones y dispositivos, adaptando la distribución de los elementos, imágenes, textos y secciones para mantener una experiencia consistente tanto en desktop como en mobile.
+
+## 🚀 Demo
+
+[Visitar José Decibe Agro](https://josedecibeagro-brown.vercel.app/)
+
+## 👨‍💻 Desarrollo
+
+Proyecto desarrollado por **Walter Britos**.
